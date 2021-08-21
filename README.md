@@ -3,7 +3,7 @@ A sampling of some VBA macros and tools I've created over the years. Some are de
 
 
 
-<u>Excel VBA scripts</u>
+### Excel VBA scripts
 
 - DictLookup:
 
@@ -36,7 +36,7 @@ A sampling of some VBA macros and tools I've created over the years. Some are de
 
     
 
-<u>PowerPoint VBA scripts</u>
+### PowerPoint VBA scripts
 
 - ChartLabelShift:
 
@@ -60,7 +60,7 @@ A sampling of some VBA macros and tools I've created over the years. Some are de
 
   
 
-<u>Additional Tools</u>
+### Additional Tools
 
 - Master Sig Tester:
   - Various kinds of sig-testing, all in one file. 
