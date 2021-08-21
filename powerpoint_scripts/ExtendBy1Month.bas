@@ -1,6 +1,6 @@
 Sub ExtendBy1Month()
 	'conveniance macro to add an additional month to all selected charts
-	'works if data is vertical or horozontal orientation
+	'works if data is vertical or horizontal orientation
 	'currently need to specify month value to append to data range
 	'TODO: add automatic date parsing to eliminate manual month update
 	
