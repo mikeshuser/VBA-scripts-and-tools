@@ -63,8 +63,14 @@ A sampling of some VBA macros and tools I've created over the years. Some are de
 ### Additional Tools
 
 - Master Sig Tester:
+
   - Various kinds of sig-testing, all in one file. 
+  
 - Table Subset Tool:
+
   - Little convenience tool to pull a column subset from a large excel/csv file.
+  
 - PB_Report Update Macros:
+
   - Fully automated report update pipeline. Includes macros to update charts, tables, sigtesting and formatting.
+ 
